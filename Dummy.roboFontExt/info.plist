@@ -20,7 +20,7 @@
 	<key>com.robofontmechanic.Mechanic</key>
 	<dict>
 		<key>repository</key>
-		<string>username/my-extension</string>
+		<string>jackjennings/Dummy</string>
 		<key>summary</key>
 		<string>An empty RoboFont extension for testing purposes</string>
 	</dict>
