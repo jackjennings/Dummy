@@ -17,6 +17,13 @@
 	<string>_startup.py</string>
 	<key>name</key>
 	<string>Dummy</string>
+	<key>com.robofontmechanic.Mechanic</key>
+	<dict>
+		<key>repository</key>
+		<string>username/my-extension</string>
+		<key>summary</key>
+		<string>An empty RoboFont extension for testing purposes</string>
+	</dict>
 	<key>repository</key>
 	<string>jackjennings/Dummy</string>
 	<key>timeStamp</key>
